@@ -1,0 +1,5 @@
+Text_Summarization_Tool/
+├── requirements.txt
+├── summarizer.py
+├── sample_input.txt
+└── README.md
